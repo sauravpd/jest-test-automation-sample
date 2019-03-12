@@ -1,0 +1,38 @@
+{
+  "name": "jest-puppeteer-javascript",
+  "version": "1.0.0",
+  "description": "Sample Test Automation framework designed using Jest, Puppeteer, and Javascript.",
+  "homepage": "https://www.google.com",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^1.11.0",
+    "jest": "^23.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.18"
+  },
+  "jest": {
+    "testMatch": [
+      "**/specs/*.test.js"
+    ]
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest",
+    "puppeteer",
+    "javascript",
+    "angular",
+    "angularjs",
+    "vscode",
+    "testing",
+    "selenium",
+    "automation testing"
+  ],
+  "author": "Saurav",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sauravpd/jest-test-automation-sample.git"
+  }
+}
